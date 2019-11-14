@@ -1,0 +1,9 @@
+# Pre-processing {#main-preprocessing}
+
+The methods and R codes to transforma data from the raw to tidy (analysis-friendly) form.
+
+The final result of preprocessing must comply the Tidyverse style guide (https://style.tidyverse.org/) especially the variable names.
+Pay attention that there are no guidelines for variable values.
+Use package **styler** for automatic corrections.
+
+

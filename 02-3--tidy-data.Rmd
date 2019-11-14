@@ -1,0 +1,11 @@
+# Pre-processed (Tidy) Data
+
+## Overview of data structure
+
+...
+
+## Codebook {#codebook-preprocessed}
+
+The description variables with units of measurement.
+Indicate the main differences from the raw dataset.
+

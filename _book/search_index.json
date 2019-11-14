@@ -1,0 +1,12 @@
+[
+["index.html", "The Title of The Project The Course Project for R-2019 Summary", " The Title of The Project The Course Project for R-2019 Autror 1, Author 2 2019-10-21 Summary … "],
+["intro.html", "1. Introduction 1.1 Background 1.2 The purpose and the tasks", " 1. Introduction 1.1 Background Background information and short introduction1 why this study (analysis) is needed. 1.2 The purpose and the tasks The purpose of this analysis: The tasks: Approx. 2-5 sentences↩ "],
+["raw-data.html", "2. Raw data 2.1 The source of data 2.2 Description of raw data 2.3 Codebook of raw data", " 2. Raw data 2.1 The source of data … 2.2 Description of raw data The desctiption or raw data: Equipment used to collect it References 2.3 Codebook of raw data The description variables "],
+["main-preprocessing.html", "3. Pre-processing", " 3. Pre-processing The methods and R codes to transforma data from the raw to tidy analysis-friendly form. The final result of preprocessing must comply the Tidyverse style guide (especially the variable names; pay attention that there are no guidelines for variable values). "],
+["pre-processed-tidy-data.html", "4. Pre-processed (Tidy) Data 4.1 Overview of data structure 4.2 Codebook", " 4. Pre-processed (Tidy) Data 4.1 Overview of data structure … 4.2 Codebook The description variables. "],
+["analysis-1.html", "5. Analysis 1", " 5. Analysis 1 . "],
+["analysis-2.html", "6. Analysis 2", " 6. Analysis 2 … "],
+["analysis-3.html", "7. Analysis 3", " 7. Analysis 3 … "],
+["conclusions.html", "8. Conclusions", " 8. Conclusions … … … … "],
+["references.html", "References", " References "]
+]

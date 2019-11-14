@@ -1,0 +1,32 @@
+# Book generation ------------------------------------------------------------
+documentclass: book
+book_filename: "R-2019-project"
+new_session: yes
+delete_merged_file: true
+# Citations/References -------------------------------------------------------
+link-citations: yes
+bibliography: ["_helpers/book.bib", "_helpers/packages.bib"]
+biblio-style: plain
+csl: "_helpers/citation-style-lt-1.csl"
+# Language-related settings --------------------------------------------------
+encoding: utf-8
+lang: lt
+language:
+  label:
+    fig: 'Pav. '
+    tab: 'Lentelė '
+    eq:  'Lygtis '
+    exm: 'Pavyzdys '
+    exr: 'Užduotis '
+    ex:  'Užduotis '
+    cor: 'Video epizodas '
+    thm: 'Teorema '
+    lem: 'Lema '
+    def: 'Apibrėžimas '
+    prp: 'Teiginys '
+    proof: 'Įrodymas. '
+    remark: 'Pastaba. '
+    solution: 'Sprendimas. '
+  ui:
+    edit: "Taisyti"
+    chapter_name: !expr function(i) paste0(i,". ")

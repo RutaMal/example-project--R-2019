@@ -1,0 +1,20 @@
+# (PART\*) Data {-}
+
+# Raw data {#raw-data}
+
+
+## The source of data
+
+...
+
+## Description of raw data
+
+The description or your raw data:
+
+- Equipment used to collect it
+- References
+
+
+## Codebook of raw data
+
+The description of variables with units of measurement.

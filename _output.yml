@@ -1,0 +1,22 @@
+# Git Book format ------------------------------------------------------------
+bookdown::gitbook:
+  css: [assets/style.css, assets/kbd.css]
+  highlight: pygments
+  fig_align: center
+  toc_depth: 4
+  config:
+    toc:
+      before: |
+        <li><a href="./">Main</a></li>
+      after: |
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Home (GitHub)</a></li>
+    download: "epub"
+    toolbar:
+      position: static
+    edit : null
+    search: yes
+    sharing: no
+
+# Epub format ----------------------------------------------------------------
+# bookdown::epub_book: default
+
